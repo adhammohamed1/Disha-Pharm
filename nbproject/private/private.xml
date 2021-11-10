@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/view/optionpanes/ComingSoonDialog.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/controller/searching/Comparer.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/controller/searching/Searcher.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/view/components/Table.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/view/optionpanes/CustomOptionPane.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/controller/management/personnel/AdminHandler.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/view/optionpanes/LogoutDialog.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/view/general/InitializationFrame.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/view/optionpanes/PasswordDialog.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/controller/authentication/user/PharmacistAuthenticator.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/view/pharmacistspecific/CheckoutWindow.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/view/optionpanes/ChooseItemDialog.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/view/adders/RestockWindow.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/controller/searching/BST.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/view/adminspecific/AdminSettings.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/view/components/Buffer.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/view/adders/AddPharmacistWindow.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/view/adders/AddCosmeticToStock.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/view/optionpanes/RemoveFromCartDialog.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/view/adminspecific/PharmacistLoadingFrame.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/view/pharmacistspecific/PharmacistHome.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/controller/authentication/user/AdminAuthenticator.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/view/adminspecific/AdminHome.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/controller/authentication/user/DelivererAuthenticator.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/view/adminspecific/ManageDelivererFrame.java</file>
+            <file>file:/C:/Users/drogo/Desktop/Projects/Java%20Projects/Mostafa%20Pharm/src/view/adders/AddDelivererWindow.java</file>
+        </group>
+    </open-files>
+</project-private>
