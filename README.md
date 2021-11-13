@@ -70,5 +70,4 @@ By clicking on an operation from the list in the financial tab
 
 ![Screenshot (103)](https://user-images.githubusercontent.com/90573502/141642838-d88606b2-f3f6-453d-8b3a-bb5c0925a41f.png)
 
-
-
+![Screenshot 2021-11-13 135249](https://user-images.githubusercontent.com/90573502/141643880-92079c57-d67c-4669-9ece-5b7bf81056a2.jpg)
