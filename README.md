@@ -22,6 +22,8 @@ A pharmacist with inventory access can also add to the inventory.
 
 Every purchase generates a paper invoice containing all relevant details. The invoice is a printable bill.
 
+The following are some of the windows you  may see when using the system:
+
 ![Screenshot (65)](https://user-images.githubusercontent.com/90573502/141642455-80c76476-73ea-47c5-9c81-8b73d6032326.png)
 
 Initial loading screen
