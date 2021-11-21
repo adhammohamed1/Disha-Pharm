@@ -2,7 +2,7 @@
 Pharmacy System using Java Swing
 
 This is a comprehensive system meant for a pharmacy that can handle multi-layer access levels, contains an invoice system, a data analysis section and more.
-The GUI is designed using javax.swing. In fact, this particular project has helped become highly proficient in using javax.swing
+The GUI is designed using javax.swing. In fact, this particular project has helped me become highly proficient in using javax.swing
 
 First off, we have the Admin which is the owner of the place or the person with the absolute highest authority.
 An admin can control everything from finances to personnel and can even sell items throught the pharmacist mode.
