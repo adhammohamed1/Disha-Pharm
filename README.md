@@ -1,32 +1,66 @@
 # Disha-Pharm
 Pharmacy System using Java Swing
 
+## Table of Contents
+* [Project Description](#project-description)
+* [Features](#features)
+  - [Summary of Features in Admin Mode](#summary-of-features-in-admin-mode)
+  - [Features in Pharmacist Mode](#summary-of-features-in-pharmacist-mode)
+  - [Miscellaneous Features](#miscellaneous-features)
+* [Tools, Libraries & Implementations](#tools-libraries--implementations)
+* [Sample Run](#sample-run)
+
+## Project Description
 This is a comprehensive system meant for a pharmacy that can handle multi-layer access levels, contains an invoice system, a data analysis section and more.
-The GUI is designed using javax.swing. In fact, this particular project has helped me become highly proficient in using javax.swing
+JavaDoc is used to document method functionalities and descriptions for classes, interfaces and global variables. The GUI is designed mainly using javax.swing. In fact, this particular project has helped me become highly proficient in using javax.swing
 
 First off, we have the Admin which is the owner of the place or the person with the absolute highest authority.
 An admin can control everything from finances to personnel and can even sell items throught the pharmacist mode.
-
-Summary of features in the admin mode:
-1. Viewing and managing inventory
-2. A settings menu where the admin can modify multiple variables in the system like the preferred currency, taxes, base delivery fees, login credentials, and more.
-3. Manage all personnel like deliverers, pharmacists and managers with their different configuring settings (vehicle type for deliverers, inventory access for pharmacists, etc.)
-4. Sell medicine (pharmacist mode)
-5. See all performed transactions with immense detail (date, time, vendor, number of items, items involved, type of transaction)
-6. View net monthly balance and data analytics on the past three months (A graph chart for numerical data and a page for non-numerical data)
 
 Next, we have the Pharmacist.
 A pharmacist can sell items with varying levels of restriction (over the counter, prescribed or scheduled)
 medicines with higher levels of restriction require additional procedures for the purchase to be completed.
 A pharmacist with inventory access can also add to the inventory.
 
-Every purchase generates a paper invoice containing all relevant details. The invoice is a printable bill.
+## Features
+### Summary of Features in Admin Mode:
+  1. Viewing and managing inventory  (add/delete/restock products) 
+  2. A settings menu where the admin can modify multiple variables in the system like the preferred currency, taxes, base delivery fees, login credentials, and more.
+  3. Manage all personnel like deliverers, pharmacists and managers with their different configuring settings (vehicle type for deliverers, inventory access for pharmacists, etc.)
+  4. Sell products (through pharmacist mode)
+  5. Keep notes
+  6. See all performed transactions with immense detail (date, time, vendor, number of items, items involved, type of transaction)
+  7. View net monthly balance
+  8. View data analytics on the past three months (A graph chart for numerical data and a page for non-numerical data) **(Planned but still not implemented)** 
+  9. View and manage customer profiles **(Planned but still not implemented)** 
 
-The following are some of the windows you  may see when using the system:
+### Summary of Features in Pharmacist Mode:
+  1. Viewing inventory
+  2. Sell products
+  3. Manage inventory (add/delete/restock products) **(If admin gives them inventory access)**
+  4. View and manage customer profiles **(Planned but still not implemented)** 
+
+### Miscellaneous Features:
+  1. Every purchase generates a paper invoice containing all relevant details. The invoice is a printable bill.
+  2. Toast message with warnings or recommendations appears from the 'i' icon in the bottom left.
+  3. Highly customizable settings (currency, base delivery fees, etc.)
+  4. Notifications panel with warnings or recommendations from the system **(incomplete)**
+  5. Carefully designed user-friendly GUI for a simple but powerful experience
+
+## Tools, Libraries & Implementations
+1. IntelliJ IDEA & Netbeans (IDEs)
+2. Java Swing (most of the GUI)
+4. JavaDoc
+5. Graphic libraries like java.awt, javax.imagio, and more.
+6. Implemented using Model View Controller in addition to multiple design patterns
+7. Mostly maintained S.O.L.I.D principles
+
+## Sample Run
+**The following are some of the windows you  may see when using the system:**
 
 ![Screenshot (65)](https://user-images.githubusercontent.com/90573502/141642455-80c76476-73ea-47c5-9c81-8b73d6032326.png)
 
-Initial loading screen
+***Initial loading screen***
 
 ![Screenshot (66)](https://user-images.githubusercontent.com/90573502/141642463-468a796f-c079-4013-a063-ac4b79000dd9.png)
 
@@ -34,13 +68,13 @@ Initial loading screen
 
 ![Screenshot (69)](https://user-images.githubusercontent.com/90573502/141642470-9a1cbd4f-ec83-465c-adde-79f4a44e5f18.png)
 
-Admin Home
+***Admin Home***
 
 ![Screenshot (70)](https://user-images.githubusercontent.com/90573502/141642475-16ad6dd4-89f0-46c8-b6b9-93921e8a6e83.png)
 
 ![Screenshot (71)](https://user-images.githubusercontent.com/90573502/141642484-cc77c9de-97d4-4fc9-b558-75f296940246.png)
 
-By clicking on an operation from the list in the financial tab
+***By clicking on an operation from the list in the financial tab***
 
 ![Screenshot (72)](https://user-images.githubusercontent.com/90573502/141642503-0ecb8e4c-1def-4bd4-a882-a862e8f7e2fb.png)
 
