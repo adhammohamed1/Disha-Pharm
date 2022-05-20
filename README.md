@@ -7,6 +7,7 @@ Pharmacy System using Java Swing
   - [Summary of Features in Admin Mode](#summary-of-features-in-admin-mode)
   - [Features in Pharmacist Mode](#summary-of-features-in-pharmacist-mode)
   - [Miscellaneous Features](#miscellaneous-features)
+* [Deployment](#deployment)
 * [Tools, Libraries & Implementations](#tools-libraries--implementations)
 * [Sample Run](#sample-run)
 
@@ -46,6 +47,9 @@ A pharmacist with inventory access can also add to the inventory.
   3. Highly customizable settings (currency, base delivery fees, etc.)
   4. Notifications panel with warnings or recommendations from the system **(incomplete)**
   5. Carefully designed user-friendly GUI for a simple but powerful experience
+
+## Deployment
+To run the program, run the ***system\general\Main.java*** class
 
 ## Tools, Libraries & Implementations
 1. IntelliJ IDEA & Netbeans (IDEs)
